@@ -1,0 +1,17 @@
+{
+  "test_samples": 640,
+  "num_labels": 45,
+  "macro_precision": 0.1526474073183685,
+  "macro_recall": 0.2115087653313024,
+  "macro_f1": 0.16865721505792775,
+  "micro_precision": 0.3789173789173789,
+  "micro_recall": 0.5964125560538116,
+  "micro_f1": 0.4634146341463415,
+  "mean_per_label_roc_auc": 0.8110529540057698,
+  "mean_per_label_pr_auc": 0.24345783854729097,
+  "labels_with_test_positive_support": 36,
+  "labels_with_test_zero_support": 9,
+  "threshold_source": "Validation set only",
+  "test_used_for_threshold_selection": false,
+  "model": "D:\\Projects\\NetraX\\ml\\models\\netrax_finetuned_best.keras"
+}

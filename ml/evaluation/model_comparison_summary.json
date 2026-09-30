@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "threshold": 0.6999999999999996,
+      "macro_precision": 0.16652497593905136,
+      "macro_recall": 0.1702371647560075,
+      "macro_f1": 0.1606109724273105,
+      "micro_precision": 0.5063291139240507,
+      "micro_recall": 0.5381165919282511,
+      "micro_f1": 0.5217391304347826,
+      "model": "baseline"
+    },
+    {
+      "threshold": 0.6899999999999997,
+      "macro_precision": 0.1615761628090629,
+      "macro_recall": 0.1831982848397522,
+      "macro_f1": 0.16673988660338154,
+      "micro_precision": 0.4980392156862745,
+      "micro_recall": 0.5695067264573991,
+      "micro_f1": 0.5313807531380753,
+      "model": "fine_tuned"
+    }
+  ],
+  "test_samples": 640,
+  "num_classes": 45,
+  "threshold_selection": "Global threshold selected independently on validation data for each model.",
+  "test_set_used_only_for_final_evaluation": true
+}

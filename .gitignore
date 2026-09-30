@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+
+# ML datasets
+ml/dataset/raw/
+ml/dataset/processed/
+ml/dataset/train/
+ml/dataset/validation/
+ml/dataset/test/
+
+# Trained models
+ml/models/
+*.h5
+*.keras
+*.ckpt
+
+# Python cache
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

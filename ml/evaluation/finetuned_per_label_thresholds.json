@@ -1,0 +1,317 @@
+{
+  "DR": {
+    "threshold": 0.8299999999999996,
+    "validation_f1": 0.7773584905660378,
+    "positive_support": 132,
+    "negative_support": 508,
+    "status": "optimized"
+  },
+  "ARMD": {
+    "threshold": 0.6799999999999997,
+    "validation_f1": 0.5227272727272727,
+    "positive_support": 38,
+    "negative_support": 602,
+    "status": "optimized"
+  },
+  "MH": {
+    "threshold": 0.6299999999999997,
+    "validation_f1": 0.7542372881355932,
+    "positive_support": 102,
+    "negative_support": 538,
+    "status": "optimized"
+  },
+  "DN": {
+    "threshold": 0.5899999999999997,
+    "validation_f1": 0.2857142857142857,
+    "positive_support": 46,
+    "negative_support": 594,
+    "status": "optimized"
+  },
+  "MYA": {
+    "threshold": 0.8699999999999996,
+    "validation_f1": 0.7397260273972602,
+    "positive_support": 34,
+    "negative_support": 606,
+    "status": "optimized"
+  },
+  "BRVO": {
+    "threshold": 0.7199999999999996,
+    "validation_f1": 0.5283018867924528,
+    "positive_support": 23,
+    "negative_support": 617,
+    "status": "optimized"
+  },
+  "TSLN": {
+    "threshold": 0.5699999999999997,
+    "validation_f1": 0.5699481865284974,
+    "positive_support": 65,
+    "negative_support": 575,
+    "status": "optimized"
+  },
+  "ERM": {
+    "threshold": 0.1,
+    "validation_f1": 0.09259259259259259,
+    "positive_support": 7,
+    "negative_support": 633,
+    "status": "optimized"
+  },
+  "LS": {
+    "threshold": 0.6499999999999997,
+    "validation_f1": 0.2807017543859649,
+    "positive_support": 17,
+    "negative_support": 623,
+    "status": "optimized"
+  },
+  "MS": {
+    "threshold": 0.30999999999999994,
+    "validation_f1": 0.09523809523809523,
+    "positive_support": 5,
+    "negative_support": 635,
+    "status": "optimized"
+  },
+  "CSR": {
+    "threshold": 0.6699999999999997,
+    "validation_f1": 0.42105263157894735,
+    "positive_support": 11,
+    "negative_support": 629,
+    "status": "optimized"
+  },
+  "ODC": {
+    "threshold": 0.6599999999999997,
+    "validation_f1": 0.42857142857142855,
+    "positive_support": 72,
+    "negative_support": 568,
+    "status": "optimized"
+  },
+  "CRVO": {
+    "threshold": 0.6599999999999997,
+    "validation_f1": 0.75,
+    "positive_support": 8,
+    "negative_support": 632,
+    "status": "optimized"
+  },
+  "TV": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "AH": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 4,
+    "negative_support": 636,
+    "status": "default_low_support"
+  },
+  "ODP": {
+    "threshold": 0.3599999999999999,
+    "validation_f1": 0.15789473684210525,
+    "positive_support": 26,
+    "negative_support": 614,
+    "status": "optimized"
+  },
+  "ODE": {
+    "threshold": 0.7699999999999997,
+    "validation_f1": 0.64,
+    "positive_support": 21,
+    "negative_support": 619,
+    "status": "optimized"
+  },
+  "ST": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 4,
+    "negative_support": 636,
+    "status": "default_low_support"
+  },
+  "AION": {
+    "threshold": 0.8999999999999996,
+    "validation_f1": 0.4444444444444444,
+    "positive_support": 5,
+    "negative_support": 635,
+    "status": "optimized"
+  },
+  "PT": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "RT": {
+    "threshold": 0.6699999999999997,
+    "validation_f1": 0.5,
+    "positive_support": 6,
+    "negative_support": 634,
+    "status": "optimized"
+  },
+  "RS": {
+    "threshold": 0.7499999999999997,
+    "validation_f1": 0.6666666666666666,
+    "positive_support": 14,
+    "negative_support": 626,
+    "status": "optimized"
+  },
+  "CRS": {
+    "threshold": 0.3799999999999999,
+    "validation_f1": 0.23255813953488372,
+    "positive_support": 11,
+    "negative_support": 629,
+    "status": "optimized"
+  },
+  "EDN": {
+    "threshold": 0.8199999999999996,
+    "validation_f1": 0.4,
+    "positive_support": 5,
+    "negative_support": 635,
+    "status": "optimized"
+  },
+  "RPEC": {
+    "threshold": 0.6899999999999997,
+    "validation_f1": 0.18181818181818182,
+    "positive_support": 6,
+    "negative_support": 634,
+    "status": "optimized"
+  },
+  "MHL": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 3,
+    "negative_support": 637,
+    "status": "default_low_support"
+  },
+  "RP": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "CWS": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 3,
+    "negative_support": 637,
+    "status": "default_low_support"
+  },
+  "CB": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 0,
+    "negative_support": 640,
+    "status": "default_low_support"
+  },
+  "ODPM": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "PRH": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 1,
+    "negative_support": 639,
+    "status": "default_low_support"
+  },
+  "MNF": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 0,
+    "negative_support": 640,
+    "status": "default_low_support"
+  },
+  "HR": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 0,
+    "negative_support": 640,
+    "status": "default_low_support"
+  },
+  "CRAO": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "TD": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "CME": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 1,
+    "negative_support": 639,
+    "status": "default_low_support"
+  },
+  "PTCR": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 1,
+    "negative_support": 639,
+    "status": "default_low_support"
+  },
+  "CF": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "VH": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "MCA": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 0,
+    "negative_support": 640,
+    "status": "default_low_support"
+  },
+  "VS": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 3,
+    "negative_support": 637,
+    "status": "default_low_support"
+  },
+  "BRAO": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 2,
+    "negative_support": 638,
+    "status": "default_low_support"
+  },
+  "PLQ": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 1,
+    "negative_support": 639,
+    "status": "default_low_support"
+  },
+  "HPED": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 0,
+    "negative_support": 640,
+    "status": "default_low_support"
+  },
+  "CL": {
+    "threshold": 0.5,
+    "validation_f1": null,
+    "positive_support": 0,
+    "negative_support": 640,
+    "status": "default_low_support"
+  }
+}
