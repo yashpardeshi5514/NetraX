@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+﻿import { useEffect, useMemo, useState } from "react";
 import {
   Activity,
   ArrowRight,
@@ -285,3 +285,4 @@ function StatCard({ label, value, icon: Icon }) {
     </div>
   );
 }
+

@@ -1,0 +1,12 @@
+{
+  "test_images": 640,
+  "number_of_labels": 45,
+  "macro_precision": 0.16573052461495882,
+  "macro_recall": 0.2430634968856098,
+  "macro_f1": 0.1755121682984648,
+  "micro_precision": 0.2705382436260623,
+  "micro_recall": 0.5710014947683109,
+  "micro_f1": 0.36713118692936086,
+  "mean_roc_auc": 0.8043756110130085,
+  "mean_pr_auc": 0.23883570717711322
+}

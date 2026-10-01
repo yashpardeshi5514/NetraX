@@ -1,0 +1,16 @@
+{
+  "model": "NetraX V2.1",
+  "model_path": "D:\\Projects\\NetraX\\ml\\models\\netrax_v21_best_auc.keras",
+  "test_dataset": "RFMiD",
+  "test_images": 640,
+  "number_of_labels": 45,
+  "threshold_source": "RFMiD validation only",
+  "macro_precision": 0.15315804426675714,
+  "macro_recall": 0.24627129746517246,
+  "macro_f1": 0.16069471957247256,
+  "micro_precision": 0.22002398081534771,
+  "micro_recall": 0.5485799701046338,
+  "micro_f1": 0.31407787762088146,
+  "mean_roc_auc": 0.7833436085079513,
+  "mean_pr_auc": 0.20610233338607697
+}

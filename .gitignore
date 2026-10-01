@@ -39,3 +39,6 @@ ml/models/
 # OS
 .DS_Store
 Thumbs.db
+# Generated / downloaded ML datasets
+ml/dataset/odir_v2/
+ml/dataset/v2_manifests/
